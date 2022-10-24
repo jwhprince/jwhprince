@@ -17,9 +17,11 @@ My name is Aleksandr and I'm a FullStack JS Developer
 ---
 ## 💀 Skills 💀
 
-- **FrontEnd**: JS, TypeScript, React, Hooks API, Redux (Saga, Thunk, Toolkit), HTML5, CSS3, Sass, Bootstrap, Material UI
-- **BackEnd**: Node.js, Express, Sessions/Tokens, CORS, WebSockets, hbs
+- **FrontEnd**: JS, TypeScript, React, Hooks API, Redux (Saga, Thunk, Toolkit), HTML5, CSS3, Sass, Bootstrap, Material UI, jQuery
+- **BackEnd**: Node.js, Express, Sessions/Tokens, CORS, WebSockets, hbs, pug, ASP.NET CORE, ASP.net MVC, laravel, php
 - **Database**: PostgreSQL,  Sequelize ORM
+- **Blockchain**: Blockchain, solidity, ethereum, Smart contract , dApp, web3, NFT, NFT minting, NFT marketplace
+- **Desktop**: c#, c++, vb
 - **Others**: Jest, Linux, REST, Git
 
 ## 🚩 Languages 🚩
